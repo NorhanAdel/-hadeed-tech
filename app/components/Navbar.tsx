@@ -3,7 +3,7 @@
 import { Menu, Phone, X } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useState } from "react";
-
+import Image from "next/image";
 const links = [
   {
     name: "الرئيسية",
@@ -69,9 +69,16 @@ export default function Navbar() {
             href="#home"
             className="group flex items-center gap-3"
           >
-            <div className="flex h-11 w-11 items-center justify-center rounded-xl bg-amber-500 font-black text-xl text-black shadow-lg shadow-amber-500/20 transition group-hover:rotate-6">
-              ح
-            </div>
+           <div className="flex h-11 w-20   overflow-hidden  ">
+  <Image
+    src="/logo.png"
+    alt="للحدادة الرياض"
+    width={44}
+    height={44}
+    className="h-full w-full object-contain"
+    priority
+  />
+</div>
 
             <div className="hidden sm:block">
               <h1 className="text-lg font-black leading-none text-white">
