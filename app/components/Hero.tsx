@@ -103,9 +103,12 @@ export default function Hero() {
             }}
             className="mt-7 max-w-2xl text-base font-medium leading-8 text-gray-300 sm:text-lg"
           >
-            حداد متنقل وخدمات متكاملة في صيانة وتركيب
-            الأبواب، الدرابزين، مظلات السيارات، السواتر،
-            قص الليزر وديكورات الكلادنج.
+           حداد متنقل وخدمات الصيانة المرتبطة
+بناء ملاحق ساندويتش بانل 
+تركيب مظلات وسواتر 
+قص ليزر وديكورات 
+ابواب كلادنج مقاومة 
+قسم خاص smart home automation
           </motion.p>
 
           {/* Features */}
@@ -150,7 +153,7 @@ export default function Hero() {
             <motion.a
               whileHover={{ scale: 1.03 }}
               whileTap={{ scale: 0.97 }}
-              href="https://wa.me/966500000000"
+              href="https://wa.me/0510190013"
               target="_blank"
               rel="noopener noreferrer"
               className="group flex items-center justify-center gap-3 rounded-xl bg-amber-500 px-7 py-4 font-black text-black shadow-xl shadow-amber-500/20"

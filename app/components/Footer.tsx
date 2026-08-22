@@ -85,7 +85,7 @@ export default function Footer() {
             </div>
 
             <a
-              href="https://wa.me/966500000000"
+              href="https://wa.me/0510190013"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-3 rounded-xl bg-amber-500 px-7 py-4 font-black text-black transition hover:bg-amber-400"
@@ -220,14 +220,14 @@ export default function Footer() {
                     dir="ltr"
                     className="mt-1 text-sm font-bold text-gray-300"
                   >
-                    +966 50 000 0000
+                    + 0510190013
                   </p>
                 </div>
               </a>
 
               {/* WhatsApp */}
               <a
-                href="https://wa.me/966500000000"
+                href="https://wa.me/0510190013"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group flex items-start gap-4"
@@ -248,24 +248,7 @@ export default function Footer() {
               </a>
 
               {/* Email */}
-              <a
-                href="mailto:info@example.com"
-                className="group flex items-start gap-4"
-              >
-                <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-amber-500/10 text-amber-500 transition duration-300 group-hover:bg-amber-500 group-hover:text-black">
-                  <Mail size={18} />
-                </div>
-
-                <div>
-                  <p className="text-xs text-gray-600">
-                    البريد الإلكتروني
-                  </p>
-
-                  <p className="mt-1 text-sm font-bold text-gray-300">
-                    info@example.com
-                  </p>
-                </div>
-              </a>
+              
 
               {/* Location */}
               <div className="flex items-start gap-4">
@@ -299,7 +282,7 @@ export default function Footer() {
         <div className="flex flex-col gap-5 border-t border-white/10 py-6 text-center sm:flex-row sm:items-center sm:justify-between sm:text-right">
 
           <p className="text-xs text-gray-600">
-            © {new Date().getFullYear()} اسم الشركة. جميع الحقوق محفوظة.
+            © {new Date().getFullYear()} الرياض للحداده. جميع الحقوق محفوظة.
           </p>
 
           <div className="flex items-center justify-center gap-6 sm:justify-end">

@@ -17,13 +17,13 @@ const works = [
     title: "ملحق ساندويتش بانل",
     category: "ملاحق",
     cover:
-      "https://images.unsplash.com/photo-1503387762-592deb58ef4e?q=80&w=1400&auto=format&fit=crop",
+      "https://images.openai.com/static-rsc-4/4U1Cm2Sq4CE6G3uLr553rxJYXs8GsGL4y4V0Hgtl_44ttombAiG8nm6Pf-FSBl0NV2SoxbL-LiPln4fp_LPGzsvvfROVol9Vo50GD7Dt0TdOlFsVrKgY-McE7VtfPgpWgk_WzVXZRpUXJwq6iST3JHlzM3-krk4jW7R-fHJGmHuMxWB_duJOlG9gpErcte2t?purpose=fullsize",
 
     images: [
-      "https://images.unsplash.com/photo-1503387762-592deb58ef4e?q=80&w=1400&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=1400&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?q=80&w=1400&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?q=80&w=1400&auto=format&fit=crop",
+      "https://images.openai.com/static-rsc-4/4U1Cm2Sq4CE6G3uLr553rxJYXs8GsGL4y4V0Hgtl_44ttombAiG8nm6Pf-FSBl0NV2SoxbL-LiPln4fp_LPGzsvvfROVol9Vo50GD7Dt0TdOlFsVrKgY-McE7VtfPgpWgk_WzVXZRpUXJwq6iST3JHlzM3-krk4jW7R-fHJGmHuMxWB_duJOlG9gpErcte2t?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/gcX7tnjzjLXce3J3wTVcRr1PfSuV6gEN_byOhu2lhu29D-Xn1pJR5vjmhEQ0pxAtC_OgjUhFi7G7UXqo_DhCHE0ZRjeZYW7tgsMYtYrouxhrQFKSYfqIVnHRycxfOnYhddNqksIhPVR1WomeToM4gmv9iu6TT9OXWkFWYXjsrBbHaiGiZhMsKrKWSZhdUTrL?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/Q8_aoBwxfS3yfqHKWDzwStJ3QpMo4wADiLync0HmeUEFqPGSSq7_tXKNtN0jp7TM2t2zLkiMeTzYnZuvCybMoyTlx7jlGMbYQwDA6pifUdO_-j2oal08Z-2Yxi6rMsr7fqJFaeswPt34t9SrQSFZxqU0Not-I9aW52GZ0sX1ZHyc4Yj1LgLkuIdegQ7VAspw?purpose=fullsize",
+ 
     ],
 
     description:
@@ -42,13 +42,13 @@ const works = [
     title: "واجهة ديكور ليزر",
     category: "قص ليزر",
     cover:
-      "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1400&auto=format&fit=crop",
+      "https://images.openai.com/static-rsc-4/HOcviV53ULYefed9W2VlwsLd_UgZpO4cZNdx19NuMgSBfNnq_Nag9gdDKr4hWgfhDR62JJveYr_D1JvuTiu-D1RF2CPX6yCbp40FBVlTH5nNQy-YgZZOi-V_eOWNd5yMDSd5P5CzvxqZTHvSb-IpvE-eALcSaGpqzZKU6-6av8opJGKd8H-4bSdEf3lJg-GV?purpose=fullsize",
 
     images: [
-      "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1400&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1497366811353-6870744d04b2?q=80&w=1400&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1497366754035-f200968a6e72?q=80&w=1400&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1400&auto=format&fit=crop",
+      "https://images.openai.com/static-rsc-4/HOcviV53ULYefed9W2VlwsLd_UgZpO4cZNdx19NuMgSBfNnq_Nag9gdDKr4hWgfhDR62JJveYr_D1JvuTiu-D1RF2CPX6yCbp40FBVlTH5nNQy-YgZZOi-V_eOWNd5yMDSd5P5CzvxqZTHvSb-IpvE-eALcSaGpqzZKU6-6av8opJGKd8H-4bSdEf3lJg-GV?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/aTSAGrsaIW-Jc_n8GKCkqYkqYMTnakW_qvNKYrQfe9OFZVrHhSTXs2UtwRGzKAmSrb7yw9wXlaF_1x7gpr7O03d-gxqQZublTILE-NeEHJNRBXXE75Y3yrgMc2GcfQv_PSXUMnZNkvKAmc8P5eizEKKMuDDrvIxASs3ZxyIk4kN7TEd5-njdRm24DiREzEMM?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/MxmQr22W8bgL2i0AYoi3Q_RDC3UwZGVHuugARM2HmruOSVcF1eX3nR8_LE-yv6zff_usoPxPTJPXo1fWtcPXrYXeqznGByHO1YiIOnA4L39Iipi9BsP63MWB9E5jiiBxyezI8tOY9eEIXDCteHNeJtduKVd3Yi-6ZNJY2QVy_7WJi6V55KAUvYwU3hP9CWFv?purpose=fullsize",
+   
     ],
 
     description:
@@ -67,12 +67,12 @@ const works = [
     title: "سواتر ليزر",
     category: "سواتر",
     cover:
-      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&w=1400&auto=format&fit=crop",
+      "https://images.openai.com/static-rsc-4/sokOIiD_Tn_Mvvg-sCR7kUlG7aJt0e_kCMHQXXzXjczX69En1uPckip879sbLprYmbXo5xmVRfr5jDzBmYcGXfN8NxJs5ONew7PbweSm-u6iA-gWfyZbI7DCVLEmbTOrRRmxv5IJ7x7WXamHJMANgqpvR5Q6x_pGRsjkPbicOQyuKkVPfbozirsDtFDy6qn_?purpose=fullsize",
 
     images: [
-      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&w=1400&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?q=80&w=1400&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600607688969-a5bfcd646154?q=80&w=1400&auto=format&fit=crop",
+      "https://images.openai.com/static-rsc-4/sokOIiD_Tn_Mvvg-sCR7kUlG7aJt0e_kCMHQXXzXjczX69En1uPckip879sbLprYmbXo5xmVRfr5jDzBmYcGXfN8NxJs5ONew7PbweSm-u6iA-gWfyZbI7DCVLEmbTOrRRmxv5IJ7x7WXamHJMANgqpvR5Q6x_pGRsjkPbicOQyuKkVPfbozirsDtFDy6qn_?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/HIK5CV9fa11xsg0CStfJzOAYKWdmPXckkom5a_cAFuSuafOPv-C58DzRdfbASTShJwPP2skLeGw70bnHFhs1diwkb7sB21f8hoPQ-JZ1471jrjJMqQ-yabRKc2FcynPxzEz-VsuQKAYoOjfEdKDoCNZdCorf0KTxRhn50yaGc4R3xbjpv2dRi_wFiTTEr_j4?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/RZ07sAXS5hmzbjqYCvEDXCnzUmFK0_JfjGjyNd5pb19S7J7hL1W417eLmNWc6s_-gv4gJBJKUG9O9UpgyQLDG7r4OiiQtS5oQJQYztxOJer2YhnDO8oaG7awYur3ESPjqC3t-n75ZIJCbLejARmpq9-LY-BghVzObWuoH41j0uTP-UTPItBus-rb5scjNf_Z?purpose=fullsize",
     ],
 
     description:
@@ -91,12 +91,12 @@ const works = [
     title: "أبواب كلادنج مقاومة",
     category: "أبواب",
     cover:
-      "https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?q=80&w=1400&auto=format&fit=crop",
+      "https://images.openai.com/static-rsc-4/2lHNT4L4wiuk7QKXctRlGeII8DqoeYr1LQFUtx5CZnSyju-_z-4KY2tJbN3vZt_pnVeHPZqoXj_JwMKrghte6PxnQVpCPlvdnMKvHg7HZAZhssPIJ220XySc6UxE0zS96nOsVqpm00PGT3Yr6rvuk9muhZyycclg0pYqXPsPNqvqt3pzfkI8HUlSJe_tL4j0?purpose=fullsize",
 
     images: [
-      "https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?q=80&w=1400&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?q=80&w=1400&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?q=80&w=1400&auto=format&fit=crop",
+      "https://images.openai.com/static-rsc-4/2lHNT4L4wiuk7QKXctRlGeII8DqoeYr1LQFUtx5CZnSyju-_z-4KY2tJbN3vZt_pnVeHPZqoXj_JwMKrghte6PxnQVpCPlvdnMKvHg7HZAZhssPIJ220XySc6UxE0zS96nOsVqpm00PGT3Yr6rvuk9muhZyycclg0pYqXPsPNqvqt3pzfkI8HUlSJe_tL4j0?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/ExPwcLaikXTbANn5gd0MYn_u1rr5G7KiHmF3wT2gosR6FighFk2EazVveT6OY84n8UKr7rOO8u-Yg4X3l63xCWP6O16HbMEyPDmB6T8xDNXOiysocTODISuXAU0xcQmqb2fkPiIoQdyxd9DrWGh9d7hsi8Bwold3StHn00LnJvprW1P0UggNlJdZNUggkHEB?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/Hb19Ybl1oMLT0gd0rQJ2c-bRugJQTyoYcNIwKCalcD3-VxtVsLb94ibFtGsw04zjPT9amxkekJozAWWEFvKJAwqGfXPQynJu9cpN8KhOlhTnUlIC8EhxR_FTwE_8kjXUMihEVSR-5Ln42_7o57plbwkD5LmRJo-e8alcxi_zqmc2TzxHLqjK8P-RSo4LF9PV?purpose=fullsize",
     ],
 
     description:
@@ -115,12 +115,12 @@ const works = [
     title: "درابزين مودرن",
     category: "درابزين",
     cover:
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?q=80&w=1400&auto=format&fit=crop",
+      "https://images.openai.com/static-rsc-4/b5o2NJusTVdeMC-psDKvQcCNxTTHQqXebLJQtI1OzAelgZZKrZpXIe7kz4wRZxVlidWeZXI-x9eaPzPe6IUWd2nu0nErDW1WulSsH5k6m3X-oruKpMTJlnDNbTaM85SlxB0-DBt7UqtmReY7uMI2tYpYX6U6FNX5KevX7zIQnoeIYqufo8Z8iQxFqHwiB715?purpose=fullsize",
 
     images: [
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?q=80&w=1400&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?q=80&w=1400&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?q=80&w=1400&auto=format&fit=crop",
+      "https://images.openai.com/static-rsc-4/b5o2NJusTVdeMC-psDKvQcCNxTTHQqXebLJQtI1OzAelgZZKrZpXIe7kz4wRZxVlidWeZXI-x9eaPzPe6IUWd2nu0nErDW1WulSsH5k6m3X-oruKpMTJlnDNbTaM85SlxB0-DBt7UqtmReY7uMI2tYpYX6U6FNX5KevX7zIQnoeIYqufo8Z8iQxFqHwiB715?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/oGit9cQ0I-eSvlNhzPXuHcGXi3YJsh-B_O7SbCtZKOkNYE7tk1NTDq-sGhXoCu-0Df2AW4GQQ01xVSE9yGiW7V-tzc1fqnGZv-G0KvgvCA_PB-7mJpzjjbQvSCIRR4bIFIk5xeOV7biWDS56uuh_1jBtZi2mMHbL37wkJrQ8cyAsF5wP-XED7ZkE3VaSuXkw?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/OO170iq2kEX3mdZF-XoEImGiydZiZdQ_QaxfaTIlr6sQ7dLJZWlDNG1bO13J1Nbj5zU9JOojpmAyLfae_d0fgDo7eRnBS5EKSNDDYjtwwVjaH1LxPjXj9lgZN21OtyjzhfMLTQL7MCalp5PABDsWTDrw_bfDgsoVBddUq_usUMjojgFVoMK74_Sj0zR4YZcu?purpose=fullsize",
     ],
 
     description:
@@ -136,15 +136,15 @@ const works = [
 
   {
     id: 6,
-    title: "مشروع Smart Home",
+    title: " Smart Home automation",
     category: "Smart Home",
     cover:
-      "https://images.unsplash.com/photo-1558008258-3256797b43f3?q=80&w=1400&auto=format&fit=crop",
+      "https://images.openai.com/static-rsc-4/6cf-uDQLSXcsxaXUpe1mD11nNtPDp97sMH6jBWg9JW9kzCjxOvNHNn2s_0WZKhoonM-B_rR_A_DCEn1wd3jmTEHrrKdSLExX28A2NWeDkdYuBLmjEiqtCTn9dgx5eXRNXa4hbs6lvb1rOsNwaN5bkTYM5BvACCZOa0aCAEQvckrcfsu5qxWzkC9fJfd35O4H?purpose=fullsize",
 
     images: [
-      "https://images.unsplash.com/photo-1558008258-3256797b43f3?q=80&w=1400&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1513694203232-719a280e022f?q=80&w=1400&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?q=80&w=1400&auto=format&fit=crop",
+      "https://images.openai.com/static-rsc-4/6cf-uDQLSXcsxaXUpe1mD11nNtPDp97sMH6jBWg9JW9kzCjxOvNHNn2s_0WZKhoonM-B_rR_A_DCEn1wd3jmTEHrrKdSLExX28A2NWeDkdYuBLmjEiqtCTn9dgx5eXRNXa4hbs6lvb1rOsNwaN5bkTYM5BvACCZOa0aCAEQvckrcfsu5qxWzkC9fJfd35O4H?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/07I06klr9FBHyu61K0DqSLZzGx4ydUgelVe80_9z_NeIv3_R7zjmZoOjlROvGX4xqVuZy8CkVJHVo_CB8J0CaAagvYK12XfVuZQuqHsQyWXRadxPChvXbThlCjqCkOyL8fG7fF7mgqbo8V9xqPDk8cBID2Sywd8QX7uJQ-kXzz_DCb4Dwkrlm1MAMmUa6Yuv?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/J2E06slwPC_9NNlKzqDbozBbkQi55xWXpdM4dxULkb5L9rIMgm36fjxui49z032EWF0M2c9CYH5x-el-a4bPkUGOgrItJdlvL0xneAsXVcCNu9ikOPxAZG93WCkKVmKEl8O5UoiXF-vIE0SiNFOJ36xIumjf6U8f8HPZOXwbG_Iux35flhOWPlDnO1fl513U?purpose=fullsize",
     ],
 
     description:
@@ -489,7 +489,7 @@ export default function Works() {
 
                     {/* CTA */}
                     <a
-                      href={`https://wa.me/966500000000?text=${encodeURIComponent(
+                      href={`https://wa.me/0510190013=${encodeURIComponent(
                         `السلام عليكم، أعجبتني أعمالكم في "${selected.title}" وأريد تنفيذ مشروع مشابه`
                       )}`}
                       target="_blank"
