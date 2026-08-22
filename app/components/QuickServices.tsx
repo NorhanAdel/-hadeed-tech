@@ -26,6 +26,7 @@ const services = [
     shortDescription:
       "تنفيذ ملاحق عصرية وعملية بجودة عالية",
     icon: Building2,
+       phone: "+966539420185",
     image:
       "https://images.openai.com/static-rsc-4/4U1Cm2Sq4CE6G3uLr553rxJYXs8GsGL4y4V0Hgtl_44ttombAiG8nm6Pf-FSBl0NV2SoxbL-LiPln4fp_LPGzsvvfROVol9Vo50GD7Dt0TdOlFsVrKgY-McE7VtfPgpWgk_WzVXZRpUXJwq6iST3JHlzM3-krk4jW7R-fHJGmHuMxWB_duJOlG9gpErcte2t?purpose=fullsize",
     description:
@@ -44,6 +45,7 @@ const services = [
     shortDescription:
       "واجهات معدنية بتصاميم ليزر مميزة",
     icon: ScanLine,
+     phone: "+966539420185",
     image:
       "https://images.openai.com/static-rsc-4/HOcviV53ULYefed9W2VlwsLd_UgZpO4cZNdx19NuMgSBfNnq_Nag9gdDKr4hWgfhDR62JJveYr_D1JvuTiu-D1RF2CPX6yCbp40FBVlTH5nNQy-YgZZOi-V_eOWNd5yMDSd5P5CzvxqZTHvSb-IpvE-eALcSaGpqzZKU6-6av8opJGKd8H-4bSdEf3lJg-GV?purpose=fullsize",
     description:
@@ -62,6 +64,7 @@ const services = [
     shortDescription:
       "سواتر تجمع بين الخصوصية والتصميم",
     icon: PanelsTopLeft,
+     phone: "+966539420185",
     image:
       "https://images.openai.com/static-rsc-4/HIK5CV9fa11xsg0CStfJzOAYKWdmPXckkom5a_cAFuSuafOPv-C58DzRdfbASTShJwPP2skLeGw70bnHFhs1diwkb7sB21f8hoPQ-JZ1471jrjJMqQ-yabRKc2FcynPxzEz-VsuQKAYoOjfEdKDoCNZdCorf0KTxRhn50yaGc4R3xbjpv2dRi_wFiTTEr_j4?purpose=fullsize",
     description:
@@ -80,6 +83,7 @@ const services = [
     shortDescription:
       "أبواب عصرية ومتينة للاستخدام الخارجي",
     icon: DoorClosed,
+     phone: "+966539420185",
     image:
       "https://images.openai.com/static-rsc-4/2lHNT4L4wiuk7QKXctRlGeII8DqoeYr1LQFUtx5CZnSyju-_z-4KY2tJbN3vZt_pnVeHPZqoXj_JwMKrghte6PxnQVpCPlvdnMKvHg7HZAZhssPIJ220XySc6UxE0zS96nOsVqpm00PGT3Yr6rvuk9muhZyycclg0pYqXPsPNqvqt3pzfkI8HUlSJe_tL4j0?purpose=fullsize",
     description:
@@ -98,6 +102,7 @@ const services = [
     shortDescription:
       "درابزين بتصاميم عصرية وأنيقة",
     icon: Fence,
+     phone: "+966539420185",
     image:
       "https://images.openai.com/static-rsc-4/b5o2NJusTVdeMC-psDKvQcCNxTTHQqXebLJQtI1OzAelgZZKrZpXIe7kz4wRZxVlidWeZXI-x9eaPzPe6IUWd2nu0nErDW1WulSsH5k6m3X-oruKpMTJlnDNbTaM85SlxB0-DBt7UqtmReY7uMI2tYpYX6U6FNX5KevX7zIQnoeIYqufo8Z8iQxFqHwiB715?purpose=fullsize",
     description:
@@ -116,6 +121,7 @@ const services = [
     shortDescription:
       "صيانة وإصلاح الأعمال الحديدية",
     icon: Wrench,
+     phone: "+966539420185",
     image:
       "https://images.openai.com/static-rsc-4/zsP0Z98YoJZI7IuWIB8Eo4jJYorQpOGM-bBuf3A5YMRo6M02k73lemBEBwmR1Ar8Hf2KuhGVvcrbehKl-VpwEU2WZF5bOqdbzeu4cqFzPli_eKXxVV-1q5dxpR79DisZTs2xO4crGcuIkf8ySm_RWsU2xQl6PJpcmo5rVHgo0bV0N_ctn_HsefQeVly-yglk?purpose=fullsize",
     description:
@@ -134,6 +140,7 @@ const services = [
     shortDescription:
       "حلول المنزل الذكي والتحكم عن بُعد",
     icon: HouseWifi,
+     phone: "+966510190013",
     image:
       "https://images.openai.com/static-rsc-4/J2E06slwPC_9NNlKzqDbozBbkQi55xWXpdM4dxULkb5L9rIMgm36fjxui49z032EWF0M2c9CYH5x-el-a4bPkUGOgrItJdlvL0xneAsXVcCNu9ikOPxAZG93WCkKVmKEl8O5UoiXF-vIE0SiNFOJ36xIumjf6U8f8HPZOXwbG_Iux35flhOWPlDnO1fl513U?purpose=fullsize",
     description:
@@ -427,9 +434,9 @@ export default function QuickServices() {
                     <div className="mt-9 flex flex-col gap-3 sm:flex-row">
 
                       <a
-                        href={`https://wa.me/966510190013?text=${encodeURIComponent(
-                          `السلام عليكم، أريد الاستفسار عن خدمة ${selected.title}`
-                        )}`}
+                        href={`https://wa.me/${selected.phone.replace("+", "")}?text=${encodeURIComponent(
+  `السلام عليكم، أريد الاستفسار عن خدمة ${selected.title}`
+)}`}
                         target="_blank"
                         rel="noopener noreferrer"
                         className={`flex items-center justify-center gap-3 rounded-xl px-6 py-4 font-black transition ${
@@ -443,15 +450,13 @@ export default function QuickServices() {
                         اطلب هذه الخدمة
                       </a>
 
-                      <a
-                        href="tel:+966510190013"
-                        className="flex items-center justify-center gap-3 rounded-xl border border-white/10 bg-white/5 px-6 py-4 font-bold text-white transition hover:bg-white/10"
-                      >
-                        <Phone size={19} />
-
-                        اتصل بنا
-                      </a>
-
+                 <a
+  href={`tel:${selected.phone}`}
+  className="flex items-center justify-center gap-3 rounded-xl border border-white/10 bg-white/5 px-6 py-4 font-bold text-white transition hover:bg-white/10"
+>
+  <Phone size={19} />
+  اتصل بنا
+</a>
                     </div>
 
                   </div>

@@ -61,7 +61,7 @@ export default function Contact() {
 
           {/* WhatsApp */}
           <motion.a
-            href="https://wa.me/966510190013"
+            href="https://wa.me/966539420185"
             target="_blank"
             rel="noopener noreferrer"
             initial={{
@@ -107,7 +107,7 @@ export default function Contact() {
 
           {/* Phone */}
           <motion.a
-            href="tel:+0510190013"
+            href="tel:+966539420185"
             initial={{
               opacity: 0,
               y: 30,
@@ -143,7 +143,7 @@ export default function Contact() {
               dir="ltr"
               className="mt-6 text-sm font-bold text-amber-500"
             >
-            + 966510190013
+            + 966539420185
             </div>
           </motion.a>
 

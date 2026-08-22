@@ -129,7 +129,7 @@ export default function Navbar() {
 
             {/* Phone */}
             <a
-              href="tel:+0510190013"
+              href="tel:+966539420185"
               className="flex items-center gap-2 text-sm font-bold text-gray-300 transition hover:text-white"
             >
               <Phone
@@ -142,7 +142,7 @@ export default function Navbar() {
 
             {/* WhatsApp */}
             <a
-              href="https://wa.me/0510190013"
+              href="https://wa.me/966539420185"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-xl bg-amber-500 px-5 py-3 text-sm font-black text-black transition hover:-translate-y-0.5 hover:bg-amber-400"
@@ -223,7 +223,7 @@ export default function Navbar() {
 
               {/* Mobile Phone */}
               <a
-                href="tel:+966510190013"
+                href="tel:+966539420185"
                 onClick={() => setOpen(false)}
                 className="flex items-center justify-center gap-2 rounded-xl border border-white/10 py-3.5 font-bold text-gray-300 transition hover:border-amber-500 hover:text-amber-500"
               >
@@ -234,7 +234,7 @@ export default function Navbar() {
 
               {/* Mobile WhatsApp */}
               <a
-                href="https://wa.me/966510190013"
+                href="https://wa.me/966539420185"
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={() => setOpen(false)}

@@ -85,7 +85,7 @@ export default function Footer() {
             </div>
 
             <a
-              href="https://wa.me/966510190013"
+              href="https://wa.me/966539420185"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-3 rounded-xl bg-amber-500 px-7 py-4 font-black text-black transition hover:bg-amber-400"
@@ -204,7 +204,7 @@ export default function Footer() {
 
               {/* Phone */}
               <a
-                href="tel:+966510190013"
+                href="tel:+966539420185"
                 className="group flex items-start gap-4"
               >
                 <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-amber-500/10 text-amber-500 transition duration-300 group-hover:bg-amber-500 group-hover:text-black">
@@ -220,14 +220,14 @@ export default function Footer() {
                     dir="ltr"
                     className="mt-1 text-sm font-bold text-gray-300"
                   >
-                    +966510190013
+                    +966539420185
                   </p>
                 </div>
               </a>
 
               {/* WhatsApp */}
               <a
-                href="https://wa.me/966510190013"
+                href="https://wa.me/966539420185"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group flex items-start gap-4"

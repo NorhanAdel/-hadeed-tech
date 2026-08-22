@@ -11,11 +11,16 @@ import {
   X,
 } from "lucide-react";
 
+
+const mainPhone = "+966539420185";
+const smartHomePhone = "+966510190013";
+
 const works = [
   {
     id: 1,
     title: "ملحق ساندويتش بانل",
     category: "ملاحق",
+      phone: mainPhone,
     cover:
       "https://images.openai.com/static-rsc-4/4U1Cm2Sq4CE6G3uLr553rxJYXs8GsGL4y4V0Hgtl_44ttombAiG8nm6Pf-FSBl0NV2SoxbL-LiPln4fp_LPGzsvvfROVol9Vo50GD7Dt0TdOlFsVrKgY-McE7VtfPgpWgk_WzVXZRpUXJwq6iST3JHlzM3-krk4jW7R-fHJGmHuMxWB_duJOlG9gpErcte2t?purpose=fullsize",
 
@@ -41,6 +46,7 @@ const works = [
     id: 2,
     title: "واجهة ديكور ليزر",
     category: "قص ليزر",
+      phone: mainPhone,
     cover:
       "https://images.openai.com/static-rsc-4/HOcviV53ULYefed9W2VlwsLd_UgZpO4cZNdx19NuMgSBfNnq_Nag9gdDKr4hWgfhDR62JJveYr_D1JvuTiu-D1RF2CPX6yCbp40FBVlTH5nNQy-YgZZOi-V_eOWNd5yMDSd5P5CzvxqZTHvSb-IpvE-eALcSaGpqzZKU6-6av8opJGKd8H-4bSdEf3lJg-GV?purpose=fullsize",
 
@@ -66,6 +72,7 @@ const works = [
     id: 3,
     title: "سواتر ليزر",
     category: "سواتر",
+      phone: mainPhone,
     cover:
       "https://images.openai.com/static-rsc-4/sokOIiD_Tn_Mvvg-sCR7kUlG7aJt0e_kCMHQXXzXjczX69En1uPckip879sbLprYmbXo5xmVRfr5jDzBmYcGXfN8NxJs5ONew7PbweSm-u6iA-gWfyZbI7DCVLEmbTOrRRmxv5IJ7x7WXamHJMANgqpvR5Q6x_pGRsjkPbicOQyuKkVPfbozirsDtFDy6qn_?purpose=fullsize",
 
@@ -90,6 +97,7 @@ const works = [
     id: 4,
     title: "أبواب كلادنج مقاومة",
     category: "أبواب",
+      phone: mainPhone,
     cover:
       "https://images.openai.com/static-rsc-4/2lHNT4L4wiuk7QKXctRlGeII8DqoeYr1LQFUtx5CZnSyju-_z-4KY2tJbN3vZt_pnVeHPZqoXj_JwMKrghte6PxnQVpCPlvdnMKvHg7HZAZhssPIJ220XySc6UxE0zS96nOsVqpm00PGT3Yr6rvuk9muhZyycclg0pYqXPsPNqvqt3pzfkI8HUlSJe_tL4j0?purpose=fullsize",
 
@@ -114,6 +122,7 @@ const works = [
     id: 5,
     title: "درابزين مودرن",
     category: "درابزين",
+      phone: mainPhone,
     cover:
       "https://images.openai.com/static-rsc-4/b5o2NJusTVdeMC-psDKvQcCNxTTHQqXebLJQtI1OzAelgZZKrZpXIe7kz4wRZxVlidWeZXI-x9eaPzPe6IUWd2nu0nErDW1WulSsH5k6m3X-oruKpMTJlnDNbTaM85SlxB0-DBt7UqtmReY7uMI2tYpYX6U6FNX5KevX7zIQnoeIYqufo8Z8iQxFqHwiB715?purpose=fullsize",
 
@@ -138,6 +147,7 @@ const works = [
     id: 6,
     title: " Smart Home automation",
     category: "Smart Home",
+      phone: smartHomePhone,
     cover:
       "https://images.openai.com/static-rsc-4/6cf-uDQLSXcsxaXUpe1mD11nNtPDp97sMH6jBWg9JW9kzCjxOvNHNn2s_0WZKhoonM-B_rR_A_DCEn1wd3jmTEHrrKdSLExX28A2NWeDkdYuBLmjEiqtCTn9dgx5eXRNXa4hbs6lvb1rOsNwaN5bkTYM5BvACCZOa0aCAEQvckrcfsu5qxWzkC9fJfd35O4H?purpose=fullsize",
 
@@ -489,9 +499,9 @@ export default function Works() {
 
                     {/* CTA */}
                     <a
-                      href={`https://wa.me/966510190013=${encodeURIComponent(
-                        `السلام عليكم، أعجبتني أعمالكم في "${selected.title}" وأريد تنفيذ مشروع مشابه`
-                      )}`}
+                      href={`https://wa.me/${selected.phone.replace("+", "")}?text=${encodeURIComponent(
+    `السلام عليكم، أريد الاستفسار عن خدمة ${selected.title}`
+  )}`}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="mt-9 flex items-center justify-center gap-3 rounded-xl bg-amber-500 px-6 py-4 font-black text-black transition hover:bg-amber-400"

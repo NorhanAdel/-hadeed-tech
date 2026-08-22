@@ -11,7 +11,7 @@ export default function FloatingActions() {
     >
       {/* WhatsApp */}
       <motion.a
-        href="https://wa.me/966510190013"
+        href="https://wa.me/966539420185"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="تواصل معنا عبر واتساب"
@@ -43,7 +43,7 @@ export default function FloatingActions() {
 
       {/* Phone */}
       <motion.a
-        href="tel:+966510190013"
+        href="tel:+966539420185"
         aria-label="اتصل بنا"
         initial={{ opacity: 0, x: 60 }}
         animate={{ opacity: 1, x: 0 }}
