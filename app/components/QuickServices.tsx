@@ -427,7 +427,7 @@ export default function QuickServices() {
                     <div className="mt-9 flex flex-col gap-3 sm:flex-row">
 
                       <a
-                        href={`https://wa.me/?text=${encodeURIComponent(
+                        href={`https://wa.me/966510190013?text=${encodeURIComponent(
                           `السلام عليكم، أريد الاستفسار عن خدمة ${selected.title}`
                         )}`}
                         target="_blank"
@@ -444,7 +444,7 @@ export default function QuickServices() {
                       </a>
 
                       <a
-                        href="tel:+966500000000"
+                        href="tel:+966510190013"
                         className="flex items-center justify-center gap-3 rounded-xl border border-white/10 bg-white/5 px-6 py-4 font-bold text-white transition hover:bg-white/10"
                       >
                         <Phone size={19} />

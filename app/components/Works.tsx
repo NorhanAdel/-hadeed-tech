@@ -489,7 +489,7 @@ export default function Works() {
 
                     {/* CTA */}
                     <a
-                      href={`https://wa.me/0510190013=${encodeURIComponent(
+                      href={`https://wa.me/966510190013=${encodeURIComponent(
                         `السلام عليكم، أعجبتني أعمالكم في "${selected.title}" وأريد تنفيذ مشروع مشابه`
                       )}`}
                       target="_blank"

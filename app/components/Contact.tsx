@@ -61,7 +61,7 @@ export default function Contact() {
 
           {/* WhatsApp */}
           <motion.a
-            href="https://wa.me/0510190013"
+            href="https://wa.me/966510190013"
             target="_blank"
             rel="noopener noreferrer"
             initial={{
@@ -143,7 +143,7 @@ export default function Contact() {
               dir="ltr"
               className="mt-6 text-sm font-bold text-amber-500"
             >
-            + 0510190013
+            + 966510190013
             </div>
           </motion.a>
 
@@ -216,7 +216,7 @@ export default function Contact() {
           </p>
 
           <a
-            href="https://wa.me/0510190013"
+            href="https://wa.me/966510190013"
             target="_blank"
             rel="noopener noreferrer"
             className="mt-7 inline-flex items-center gap-3 rounded-xl bg-amber-500 px-8 py-4 font-black text-black transition hover:bg-amber-400"

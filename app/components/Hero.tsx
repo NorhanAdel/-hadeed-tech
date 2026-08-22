@@ -153,7 +153,7 @@ export default function Hero() {
             <motion.a
               whileHover={{ scale: 1.03 }}
               whileTap={{ scale: 0.97 }}
-              href="https://wa.me/0510190013"
+              href="https://wa.me/966510190013"
               target="_blank"
               rel="noopener noreferrer"
               className="group flex items-center justify-center gap-3 rounded-xl bg-amber-500 px-7 py-4 font-black text-black shadow-xl shadow-amber-500/20"
@@ -171,7 +171,7 @@ export default function Hero() {
             <motion.a
               whileHover={{ scale: 1.03 }}
               whileTap={{ scale: 0.97 }}
-              href="tel:+966500000000"
+              href="tel:+966510190013"
               className="flex items-center justify-center gap-3 rounded-xl border border-white/20 bg-white/5 px-7 py-4 font-bold text-white backdrop-blur-md transition hover:bg-white/10"
             >
               <Phone size={19} />

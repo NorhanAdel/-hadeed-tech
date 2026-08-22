@@ -223,7 +223,7 @@ export default function Navbar() {
 
               {/* Mobile Phone */}
               <a
-                href="tel:+0510190013"
+                href="tel:+966510190013"
                 onClick={() => setOpen(false)}
                 className="flex items-center justify-center gap-2 rounded-xl border border-white/10 py-3.5 font-bold text-gray-300 transition hover:border-amber-500 hover:text-amber-500"
               >
@@ -234,7 +234,7 @@ export default function Navbar() {
 
               {/* Mobile WhatsApp */}
               <a
-                href="https://wa.me/0510190013"
+                href="https://wa.me/966510190013"
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={() => setOpen(false)}

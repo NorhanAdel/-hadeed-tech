@@ -162,7 +162,7 @@ export default function WhyUs() {
             </div>
 
             <a
-              href="https://wa.me/0510190013"
+              href="https://wa.me/966510190013"
               target="_blank"
               rel="noopener noreferrer"
               className="shrink-0 rounded-xl bg-amber-500 px-7 py-4 font-black text-black transition hover:bg-amber-400"
