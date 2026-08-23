@@ -7,7 +7,7 @@ import {
   ArrowUp,
   Mail,
 } from "lucide-react";
-
+import Image from "next/image";
 const services = [
   "ملاحق ساندويتش بانل",
   "ديكور واجهات ليزر",
@@ -113,13 +113,20 @@ export default function Footer() {
               href="#home"
               className="inline-flex items-center gap-3"
             >
-              <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-amber-500 text-xl font-black text-black">
-                ح
-              </div>
+                    <div className="flex h-11 w-20   overflow-hidden  ">
+  <Image
+    src="/logo.png"
+    alt="للحدادة الرياض"
+    width={44}
+    height={44}
+    className="h-full w-full object-contain"
+    priority
+  />
+</div>
 
               <div>
                 <div className="text-xl font-black text-white">
-                  اسم الشركة
+              الرياض
                 </div>
 
                 <div className="text-xs text-amber-500">
