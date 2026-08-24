@@ -25,10 +25,7 @@ const links = [
     name: "خطوات العمل",
     href: "#how-it-works",
   },
-  {
-    name: "آراء العملاء",
-    href: "#testimonials",
-  },
+  
   {
     name: "تواصل معنا",
     href: "#contact",
