@@ -36,7 +36,7 @@ const services = [
     icon: Building2,
     phone: "+966539420185",
     image:
-      "https://images.openai.com/static-rsc-4/4U1Cm2Sq4CE6G3uLr553rxJYXs8GsGL4y4V0Hgtl_44ttombAiG8nm6Pf-FSBl0NV2SoxbL-LiPln4fp_LPGzsvvfROVol9Vo50GD7Dt0TdOlFsVrKgY-McE7VtfPgpWgk_WzVXZRpUXJwq6iST3JHlzM3-krk4jW7R-fHJGmHuMxWB_duJOlG9gpErcte2t?purpose=fullsize",
+      "sa.jpg",
     description:
       "تنفيذ ملاحق الساندويتش بانل للمنازل والاستراحات والمنشآت، بتصاميم عملية وعصرية تناسب احتياجاتك ومساحة المشروع.",
     features: [
@@ -53,7 +53,7 @@ const services = [
     icon: ScanLine,
     phone: "+966539420185",
     image:
-      "https://images.openai.com/static-rsc-4/HOcviV53ULYefed9W2VlwsLd_UgZpO4cZNdx19NuMgSBfNnq_Nag9gdDKr4hWgfhDR62JJveYr_D1JvuTiu-D1RF2CPX6yCbp40FBVlTH5nNQy-YgZZOi-V_eOWNd5yMDSd5P5CzvxqZTHvSb-IpvE-eALcSaGpqzZKU6-6av8opJGKd8H-4bSdEf3lJg-GV?purpose=fullsize",
+      "so.jpg",
     description:
       "تصميم وتنفيذ ديكورات الواجهات باستخدام قص الليزر، لإضافة لمسة عصرية ومميزة للمنازل والمحلات والمنشآت.",
     features: [
@@ -87,7 +87,7 @@ const services = [
     icon: DoorClosed,
     phone: "+966539420185",
     image:
-      "https://images.openai.com/static-rsc-4/2lHNT4L4wiuk7QKXctRlGeII8DqoeYr1LQFUtx5CZnSyju-_z-4KY2tJbN3vZt_pnVeHPZqoXj_JwMKrghte6PxnQVpCPlvdnMKvHg7HZAZhssPIJ220XySc6UxE0zS96nOsVqpm00PGT3Yr6rvuk9muhZyycclg0pYqXPsPNqvqt3pzfkI8HUlSJe_tL4j0?purpose=fullsize",
+      "door.jpg",
     description:
       "تنفيذ أبواب كلادنج مقاومة بتصاميم حديثة وخامات مناسبة للاستخدام الخارجي، مع الاهتمام بالتفاصيل والجودة.",
     features: [
@@ -104,7 +104,7 @@ const services = [
     icon: Fence,
     phone: "+966539420185",
     image:
-      "https://images.openai.com/static-rsc-4/b5o2NJusTVdeMC-psDKvQcCNxTTHQqXebLJQtI1OzAelgZZKrZpXIe7kz4wRZxVlidWeZXI-x9eaPzPe6IUWd2nu0nErDW1WulSsH5k6m3X-oruKpMTJlnDNbTaM85SlxB0-DBt7UqtmReY7uMI2tYpYX6U6FNX5KevX7zIQnoeIYqufo8Z8iQxFqHwiB715?purpose=fullsize",
+      "der.jpg",
     description:
       "تصميم وتنفيذ درابزين مودرن للسلالم والشرفات والمداخل، مع خيارات متعددة تناسب التصميم الداخلي والخارجي.",
     features: [
